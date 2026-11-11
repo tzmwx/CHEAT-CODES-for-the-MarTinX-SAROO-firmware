@@ -22,3 +22,8 @@ https://github.com/martinx72/SAROO_Firmware
 Pseudo Saturn Kai金手指库pskai20240114
 
 https://ppcenter.webou.net/pskai/
+<img width="822" height="603" alt="IMG_7735" src="https://github.com/user-attachments/assets/73bc4914-4793-4c89-987b-86de89fb02ed" />
+<img width="841" height="619" alt="IMG_7731" src="https://github.com/user-attachments/assets/4006d415-30c8-4ed9-8c0a-b339c3531f47" />
+<img width="875" height="627" alt="IMG_7732" src="https://github.com/user-attachments/assets/92a461c0-ffa0-4ac9-bfa9-5a7f2e0ee437" />
+<img width="866" height="654" alt="IMG_7733" src="https://github.com/user-attachments/assets/9735da7b-9004-4235-816a-20e4b8c14804" />
+<img width="832" height="665" alt="IMG_7734" src="https://github.com/user-attachments/assets/d02162b7-855d-4a4e-bbe8-1b72fbaa51e3" />
