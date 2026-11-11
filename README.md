@@ -1,4 +1,6 @@
+ 
 # CHEAT-CODES-for-the-MarTinX-SAROO-firmware
+
 MarTinX SAROO的固件20260514支持金手指.scht文件
 
 下载后解压缩到SD卡，注意readme文件
@@ -22,6 +24,9 @@ https://github.com/martinx72/SAROO_Firmware
 Pseudo Saturn Kai金手指库pskai20240114
 
 https://ppcenter.webou.net/pskai/
+
+448 games
+<img width="1631" height="1491" alt="pskai20240114金手指" src="https://github.com/user-attachments/assets/499d0296-8f58-4574-973c-cf74d911ddbb" />
 <img width="822" height="603" alt="IMG_7735" src="https://github.com/user-attachments/assets/73bc4914-4793-4c89-987b-86de89fb02ed" />
 <img width="841" height="619" alt="IMG_7731" src="https://github.com/user-attachments/assets/4006d415-30c8-4ed9-8c0a-b339c3531f47" />
 <img width="875" height="627" alt="IMG_7732" src="https://github.com/user-attachments/assets/92a461c0-ffa0-4ac9-bfa9-5a7f2e0ee437" />
