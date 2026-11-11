@@ -1,5 +1,6 @@
 # CHEAT-CODES-for-the-MarTinX-SAROO-firmware
 MarTinX SAROO的固件20260514支持金手指.scht文件
+
 下载后解压缩到SD卡，注意readme文件
 
 SAROO/CHEAT中的F文件夹和ID文件夹
