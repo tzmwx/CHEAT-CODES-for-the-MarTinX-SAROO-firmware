@@ -12,6 +12,8 @@ gamename必须与SAROO/ISO/GAMENAME文件夹名称相同
 
 
 基于：
-MarTinX SAROO的固件   https://github.com/martinx72/SAROO_Firmware
+MarTinX SAROO的固件20260514   
+https://github.com/martinx72/SAROO_Firmware
 
-Pseudo Saturn Kai    https://ppcenter.webou.net/pskai/
+Pseudo Saturn Kai金手指库pskai20240114
+https://ppcenter.webou.net/pskai/
